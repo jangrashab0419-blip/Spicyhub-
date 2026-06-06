@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spicy Hub</title><style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f5f5f5;
+}
+header{
+    background:#e53935;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+.hero{
+    text-align:center;
+    padding:40px 20px;
+    background:white;
+}
+.hero h1{
+    color:#e53935;
+}
+.btn{
+    background:#e53935;
+    color:white;
+    padding:12px 24px;
+    border:none;
+    border-radius:5px;
+}
+.features{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+    padding:20px;
+}
+.card{
+    background:white;
+    width:250px;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+    text-align:center;
+}
+footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style></head><body><header>
+    <h1>🌶️ Spicy Hub</h1>
+    <p>Hot Meals, Fast Delivery</p>
+</header><section class="hero">
+    <h1>Food Delivery in Your Village</h1>
+    <p>Order food from nearby restaurants within 5–6 km.</p>
+    <button class="btn">Order Now</button>
+</section><section class="features">
+    <div class="card">
+        <h3>📱 Mobile OTP Login</h3>
+        <p>Quick and secure login.</p>
+    </div><div class="card">
+    <h3>💳 UPI & COD</h3>
+    <p>Pay online or cash on delivery.</p>
+</div>
+
+<div class="card">
+    <h3>🚚 Self Delivery</h3>
+    <p>Restaurants deliver directly.</p>
+</div>
+
+<div class="card">
+    <h3>🌐 English + Hindi</h3>
+    <p>Use the app in your language.</p>
+</div>
+
+</section><footer>
+    © 2026 Spicy Hub. All Rights Reserved.
+</footer></body>
+</html>
